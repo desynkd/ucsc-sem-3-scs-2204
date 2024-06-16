@@ -1,0 +1,11 @@
+*.class
+*.tasty
+help-*
+*.pdf
+*.odt
+
+
+tute*/
+lec*/
+floresScops/
+.idea/
