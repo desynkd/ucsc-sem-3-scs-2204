@@ -13,7 +13,7 @@ object question {
 
     def main(args: Array[String]): Unit = {
 
-        // Change attendees as needed
+        // Change price as needed
         var price = 10.0
         var atd = calculateAttendees(price)
         printf("Price = %.2f, Attendees = %d\n", price, atd)
